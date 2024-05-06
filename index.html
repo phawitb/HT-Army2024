@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Adjust Temperature and Humid</title>
+    <script src="script.js"></script>
+    <style>
+        #H0 {
+          display: none;
+        }
+        #H1 {
+          display: none;
+        }
+        #H2 {
+          display: none;
+        }
+        #H3 {
+          display: none;
+        }
+        #H4 {
+          display: none;
+        }
+        #H5 {
+          display: none;
+        }
+        #adj_temp {
+          display: none;
+        }
+        #adj_humid {
+          display: none;
+        }
+        #adj_pm25 {
+          display: none;
+        }
+        #line1 {
+          display: none;
+        }
+        #line2 {
+          display: none;
+        }
+        #line3 {
+          display: none;
+        }
+        #submitBtn {
+          display: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Adjust Temperature and Humid</h1>
+
+    <!-- <h1 id="id01" type="number" step=0.1>Old Heading</h1> -->
+
+    <label for="repo">ID:</label>
+    <input type="text" id="id" required><br><br>
+
+    <button id="loadBtn">LOAD</button>
+    <label id="status"></label><br><br>
+
+
+    <label id="H0" for="repo">Adjust Temp:</label>
+    <input type="number" step=0.1 id="adj_temp" required>
+
+    <label id="H1" for="repo">Adjust Humid:</label>
+    <input type="number" step=0.1 id="adj_humid" required>
+    
+    <label id="H2" for="repo">Adjust PM2.5:</label>
+    <input type="number" step=0.1 id="adj_pm25" required>
+    
+    <label id="H3" for="repo">Line1:</label>
+    <input type="text" id="line1" required>
+    
+    <label id="H4" for="repo">Line2:</label>
+    <input type="text" id="line2" required>
+    
+    <label id="H5" for="repo">Line3:</label>
+    <input type="text" id="line3" required><br>
+
+    <button id="submitBtn">Update File</button>
+    <label id="status2"></label>
+</body>
+</html>
