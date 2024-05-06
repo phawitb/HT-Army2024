@@ -1,4 +1,4 @@
-S001,0.2,0.0,-0.2,szvzvsdv,ascasc,sdcsd
+S001,0.2,0.0,-0.2,szvzvsdv,ascasc,sdcsdc
 S002,0.0,0.0,0.0,none,none,none
 S003,0.0,0.0,0.0,none,none,none
 S004,0.0,0.0,0.0,none,none,none
