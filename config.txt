@@ -1,6 +1,6 @@
 S001,0.0,0.0,0.0,none,none,none
 S002,0.0,0.0,0.0,none,none,ฟหแอ
-S003,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,none,ฟกหอ
+S003,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,none,หน่วยฝึก พัน.นร.รร.ส.สส.
 S004,0.0,0.0,0.0,none,none,none
 S005,0.0,0.0,0.0,none,none,none
 S006,0.0,0.0,0.0,none,none,none
