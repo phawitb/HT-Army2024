@@ -1,4 +1,4 @@
-S001,0.0,0.0,0.0,none,none,none
+S001,0.3,-0.2,-0.2,zdsbdzfbzd,cascxczzc,หน่วยฝึก ส.1 พัน.101
 S002,0.0,0.0,0.0,none,none,none
 S003,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,none,หน่วยฝึกพัน.นร.รร.ส.sdc
 S004,0.0,0.0,0.0,none,none,none
