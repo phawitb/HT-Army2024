@@ -1,100 +1,100 @@
-S001,0.0,0.0,0.0,none,none,none
-S002,0.0,0.0,0.0,none,none,ฟหแอ
-S003,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,none,หน่วยฝึก พัน.นร.รร.ส.สส.
-S004,0.0,0.0,0.0,none,none,none
-S005,0.0,0.0,0.0,none,none,none
-S006,0.0,0.0,0.0,none,none,none
-S007,0.0,0.0,0.0,none,none,none
-S008,0.0,0.0,0.0,none,none,none
-S009,0.0,0.0,0.0,none,none,none
-S010,0.0,0.0,0.0,none,none,none
-S011,0.0,0.0,0.0,none,none,none
-S012,0.0,0.0,0.0,none,none,none
-S013,0.0,0.0,0.0,none,none,none
-S014,0.0,0.0,0.0,none,none,none
-S015,0.0,0.0,0.0,none,none,none
-S016,0.0,0.0,0.0,none,none,none
-S017,0.0,0.0,0.0,none,none,none
-S018,0.0,0.0,0.0,none,none,none
-S019,0.0,0.0,0.0,none,none,none
-S020,0.0,0.0,0.0,none,none,none
-S021,0.0,0.0,0.0,none,none,none
-S022,0.0,0.0,0.0,none,none,none
-S023,0.0,0.0,0.0,none,none,none
-S024,0.0,0.0,0.0,none,none,none
-S025,0.0,0.0,0.0,none,none,none
-S026,0.0,0.0,0.0,none,none,none
-S027,0.0,0.0,0.0,none,none,none
-S028,0.0,0.0,0.0,none,none,none
-S029,0.0,0.0,0.0,none,none,none
-S030,0.0,0.0,0.0,none,none,none
-S031,0.0,0.0,0.0,none,none,none
-S032,0.0,0.0,0.0,none,none,none
-S033,0.0,0.0,0.0,none,none,none
-S034,0.0,0.0,0.0,none,none,none
-S035,0.0,0.0,0.0,none,none,none
-S036,0.0,0.0,0.0,none,none,none
-S037,0.0,0.0,0.0,none,none,none
-S038,0.0,0.0,0.0,none,none,none
-S039,0.0,0.0,0.0,none,none,none
-S040,0.0,0.0,0.0,none,none,none
-S041,0.0,0.0,0.0,none,none,none
-S042,0.0,0.0,0.0,none,none,none
-S043,0.0,0.0,0.0,none,none,none
-S044,0.0,0.0,0.0,none,none,none
-S045,0.0,0.0,0.0,none,none,none
-S046,0.0,0.0,0.0,none,none,none
-S047,0.0,0.0,0.0,none,none,none
-S048,0.0,0.0,0.0,none,none,none
-S049,0.0,0.0,0.0,none,none,none
-S050,0.0,0.0,0.0,none,none,none
-S051,0.0,0.0,0.0,none,none,none
-S052,0.0,0.0,0.0,none,none,none
-S053,0.0,0.0,0.0,none,none,none
-S054,0.0,0.0,0.0,none,none,none
-S055,0.0,0.0,0.0,none,none,none
-S056,0.0,0.0,0.0,none,none,none
-S057,0.0,0.0,0.0,none,none,none
-S058,0.0,0.0,0.0,none,none,none
-S059,0.0,0.0,0.0,none,none,none
-S060,0.0,0.0,0.0,none,none,none
-S061,0.0,0.0,0.0,none,none,none
-S062,0.0,0.0,0.0,none,none,none
-S063,0.0,0.0,0.0,none,none,none
-S064,0.0,0.0,0.0,none,none,none
-S065,0.0,0.0,0.0,none,none,none
-S066,0.0,0.0,0.0,none,none,none
-S067,0.0,0.0,0.0,none,none,none
-S068,0.0,0.0,0.0,none,none,none
-S069,0.0,0.0,0.0,none,none,none
-S070,0.0,0.0,0.0,none,none,none
-S071,0.0,0.0,0.0,none,none,none
-S072,0.0,0.0,0.0,none,none,none
-S073,0.0,0.0,0.0,none,none,none
-S074,0.0,0.0,0.0,none,none,none
-S075,0.0,0.0,0.0,none,none,none
-S076,0.0,0.0,0.0,none,none,none
-S077,0.0,0.0,0.0,none,none,none
-S078,0.0,0.0,0.0,none,none,none
-S079,0.0,0.0,0.0,none,none,none
-S080,0.0,0.0,0.0,none,none,none
-S081,0.0,0.0,0.0,none,none,none
-S082,0.0,0.0,0.0,none,none,none
-S083,0.0,0.0,0.0,none,none,none
-S084,0.0,0.0,0.0,none,none,none
-S085,0.0,0.0,0.0,none,none,none
-S086,0.0,0.0,0.0,none,none,none
-S087,0.0,0.0,0.0,none,none,none
-S088,0.0,0.0,0.0,none,none,none
-S089,0.0,0.0,0.0,none,none,none
-S090,0.0,0.0,0.0,none,none,none
-S091,0.0,0.0,0.0,none,none,none
-S092,0.0,0.0,0.0,none,none,none
-S093,0.0,0.0,0.0,none,none,none
-S094,0.0,0.0,0.0,none,none,none
-S095,0.0,0.0,0.0,none,none,none
-S096,0.0,0.0,0.0,none,none,none
-S097,0.0,0.0,0.0,none,none,none
-S098,0.0,0.0,0.0,none,none,none
-S099,0.0,0.0,0.0,none,none,none
-S100,0.0,0.0,0.0,none,none,none
+S001,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S002,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S003,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S004,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S005,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S006,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S007,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S008,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S009,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S010,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S011,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S012,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S013,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S014,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S015,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S016,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S017,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S018,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S019,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S020,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S021,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S022,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S023,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S024,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S025,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S026,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S027,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S028,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S029,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S030,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S031,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S032,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S033,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S034,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S035,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S036,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S037,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S038,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S039,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S040,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S041,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S042,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S043,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S044,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S045,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S046,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S047,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S048,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S049,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S050,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S051,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S052,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S053,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S054,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S055,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S056,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S057,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S058,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S059,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S060,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S061,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S062,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S063,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S064,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S065,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S066,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S067,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S068,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S069,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S070,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S071,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S072,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S073,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S074,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S075,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S076,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S077,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S078,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S079,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S080,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S081,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S082,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S083,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S084,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S085,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S086,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S087,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S088,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S089,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S090,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S091,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S092,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S093,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S094,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S095,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S096,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S097,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S098,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S099,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
+S100,0.2,0.0,0.0,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,i4dIQOPNh6slv6gG9h5SoQdiq5SD2btX35Vg5IDl0Qm,หน่วยฝึก พัน.นร.รร.ส.สส.
