@@ -1,3 +1,3 @@
 # HT-Army2024
 
-use only config google sheet
+Last version use only config_googlesheetAPi.txt
